@@ -12,6 +12,9 @@
   "author": "Kirill Ivanov",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.18.0",
+    "js-htmlencode": "^0.3.0",
+    "node-fetch": "^2.2.1",
     "json2csv": "^4.2.1",
     "package-json": "^5.0.0",
     "rc": "^1.2.8"
