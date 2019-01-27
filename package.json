@@ -1,6 +1,6 @@
 {
   "name": "nugnp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Analyze package.json and registry to build third-party dependencies report",
   "bin": {
     "nugnp": "./bin/nugnp.js"
@@ -9,7 +9,7 @@
     "start": "node ./bin/nugnp.js"
   },
   "preferGlobal": true,
-  "author": "Kirill Ivanov",
+  "author": "Kirill Ivanov, Pykhtin Pavel",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.18.0",
